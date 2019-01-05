@@ -15,4 +15,4 @@ https://github.com/DFRobot/DFRobotDFPlayerMini
 
 ## Author
 ‚¨‚¬‚àƒgƒL(motoki_infinity8)
-[tcnksm](https://github.com/tcnksm)
+(https://github.com/motokiinfinity8)
